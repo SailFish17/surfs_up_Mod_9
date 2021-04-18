@@ -15,7 +15,7 @@ Initial results in the comparison of June and December air temperature in Hawaii
 - June temperatures average 75F with a std deviation of 3.25 degrees F.
 
 
-![June Temperature Stats](https://github.com/SailFish17/surfs_up_Mod_9/blob/main/June%20temp%20stats.png)
+![June Temperature Stats](https://github.com/SailFish17/surfs_up_Mod_9/blob/main/June%20temp%20Stats.png)
 
 
 
